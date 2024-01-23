@@ -42,10 +42,26 @@ salaries dataset generally provides information about the employees of an organi
 
 <img src="./images/totalpay_hist.PNG">
 
-## Totaljob titles bar chart
+## Top job titles bar chart
 
 <img src="./images/top_jobTitles.PNG">
 
-## Totaljob titles pie chart
+## Top job titles pie chart
 
 <img src="./images/pie_chart.PNG">
+
+## Average salary by year
+
+<img src="./images/avg_salary_year.PNG">
+
+## Average salary by job titles
+
+<img src="./images/avg_salaries.PNG">
+
+## TotalPay Boxplot
+
+<img src="./images/box_plotbefore.PNG">
+
+## TotalPay Boxplot after removing outliers
+
+<img src="./images/box_plotafter.PNG">
